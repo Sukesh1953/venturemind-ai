@@ -9,7 +9,7 @@ import streamlit as st
 # =============================================================================
 # Configuration
 # =============================================================================
-API_URL = "https://venturemind-ai-api.onrender.com"
+API_URL = "https://venturemind-ai-api.onrender.com/analyze"
 APP_TITLE = "VentureMind AI"
 APP_TAGLINE = "AI-Powered Startup Due Diligence Platform"
 PROGRESS_STEPS = [
